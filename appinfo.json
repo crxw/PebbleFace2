@@ -1,0 +1,24 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "captainaptos1@gmail.com",
+    "longName": "watchface",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "watchface",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "0fcee9e0-b53c-4b8e-b113-e954c591106e",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
